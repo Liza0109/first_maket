@@ -1,0 +1,50 @@
+body{
+    background: rgb(211, 176, 238);
+}
+.box{
+    width: 1280px;
+height: 910px;
+border: 1 px solid black;
+margin: 0 auto;
+background: rgb(13, 237, 218);
+padding: 10px;
+}
+.header{
+    width: 1260px;
+    height: 300px;
+    background: rgb(242, 250, 20);
+    margin: 0 auto;
+
+}
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav{
+    width: 1260px;
+    height: 100px;
+    background: rgb(250, 20, 158);
+    margin: 10px auto;
+}
+.main{
+    width: 880px;
+    height: 400px;
+    background:rgb(255, 191, 0) ;
+    margin: 10px;
+    float: left;
+}
+.aside{
+    width: 340px;
+    height: 400px;
+    background: rgb(111, 255, 0);
+    margin: 10px;
+    float: left;
+}
+.futer{
+    width: 1260px;
+    height: 50px;
+    background: rgb(131, 100, 159);
+    clear: both;
+    margin: 10px auto;
+}
